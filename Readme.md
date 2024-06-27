@@ -8,6 +8,8 @@
 
 ## Useful Commands
     sudo nginx -s reload
+## Clone the repo and configure your Nginx to serve the file
 
-## Serving Static Files
-cd /srv and clone a git repo 
+## Serving Static Files With Nginx Locally 
+run this command
+docker run oluchioraekwe/ngnix:v.1.0
